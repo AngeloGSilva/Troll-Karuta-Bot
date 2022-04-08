@@ -1,0 +1,7 @@
+{
+    "clientId": "clientId",
+	"guildId": "guildId",
+	"token": "botToken",
+	"token2": "botToken2",
+	"IdChannel": "IdChanel"
+}
