@@ -1,9 +1,7 @@
 // Require the necessary discord.js classes
 const { SelectMenuOption } = require('@discordjs/builders');
 const Discord = require('discord.js');
-const { MessageEmbed } = require('discord.js');
 const { token } = require('./config.json');
-const { keyOpenAi } = require('./config.json');
 const { IdChannel } = require('./config.json');
 const { clientId } = require('./config.json');
 
